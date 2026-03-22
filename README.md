@@ -7,7 +7,7 @@ and Streamlit.
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to try the app](https://your-app-link.streamlit.app)
+👉 [Click here to try the app](https://heart-disease-predictor-eqevjaopwwluxfw2y6vzsu.streamlit.app/)0
 
 ---
 
